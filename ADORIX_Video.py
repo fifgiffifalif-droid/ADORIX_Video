@@ -25,13 +25,14 @@ HT = """<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="v
     button { background: #f43f5e; font-weight: bold; cursor: pointer; border: none; }
 </style></head><body><div class="box">
     <header>
-        <h1>🏠 ADORIX VIDEO HUB</h1>
+        <h1>ADORIX VIDEO HUB</h1>
+        <h1>LLC 'ADORIX Video (all rights reserved<h1>
         <p>Most video hostings know everything about you: your account, phone number, or some even your passport, but we — we know that you love privacy.</p>
     </header>
 
     <form action="/u" method="POST" enctype="multipart/form-data">
         <input type="file" name="file" accept="video/*" required>
-        <select name="t"><option value="v">🎬 Video</option><option value="s">📱 Shorts</option></select>
+        <select name="t"><option value="v"> Video</option><option value="s"> Shorts</option></select>
         <button type="submit">Upload</button>
     </form>
     <h2>Shorts Feed 📱</h2>
