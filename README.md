@@ -1,1 +1,1 @@
-Download and install Visual Studio Code (available in the Microsoft Store or on the official website).Install Python 3.12 from the Microsoft Store.Install the required dependencies listed in the requirements.txt file.Run the main messenger file to start using it within your local network.
+
